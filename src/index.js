@@ -1,7 +1,4 @@
 import React, { Component } from 'react';
-
-require('./report-styles.css');
-
 import DOM from './renderer/dom';
 import ReportRenderer from './renderer/report-renderer';
 import ReportUIFeatures from './renderer/report-ui-features';
