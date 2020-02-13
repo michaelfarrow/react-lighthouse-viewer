@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/blencorp/react-lighthouse-viewer.git"
+    "url": "git+https://github.com/michaelfarrow/react-lighthouse-viewer.git"
   },
   "keywords": [
     "lighthouse",
@@ -24,9 +24,9 @@
   "author": "Naod Yeheyes <naodya@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/blencorp/react-lighthouse-viewer/issues"
+    "url": "https://github.com/michaelfarrow/react-lighthouse-viewer/issues"
   },
-  "homepage": "https://github.com/blencorp/react-lighthouse-viewer#readme",
+  "homepage": "https://github.com/michaelfarrow/react-lighthouse-viewer#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
